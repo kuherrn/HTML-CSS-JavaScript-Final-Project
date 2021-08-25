@@ -1,7 +1,0 @@
-To do;
-
-1. Fix <iframe> on index.html
-2. Make all webpages have sticky headers (FOCUS)
-3. Commenting (FOCUS)
-3.5. Have only 1 CSS file (FOCUS)
-4. Make one of the concorde.html specifications appear on mobile 
